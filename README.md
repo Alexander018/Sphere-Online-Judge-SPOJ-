@@ -1,1 +1,1 @@
-# Sphere-Online-Judge-SPOJ-
+SPOJ Solutions
